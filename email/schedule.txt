@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=lDTKnzrX6qU&list=PL_557Q1uZ7gIzDxN_rH_Vi6Egh0ID7un2&index=22
+DATA STRUCTURES CONTENT:
+Loops and recursion
+Arrays and matrices
+Linked lists
+Queues, stacks, heaps, 
+Sets and hash maps,
+Trees and binary search,
+Graphs,
+Depths first search, breadth first search, and backtracking
+Tries,
+Merge sort and quick sort
+
+Link to my website:
+https://catsnthing.com/KY1DPT.png
